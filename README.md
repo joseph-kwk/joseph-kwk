@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@joseph-kwk**
+- 👋 Hi, I’m **Joseph Kasongo**
 - 👀 I’m interested in **Systems Thinking**, **Database Design**, and **Simulation**—specifically applying these to **agriculture** and **fluid dynamics** for better society.
 - 🌱 I’m currently focused on **Data Science** and building robust systems using **clean architecture**. My journey started with **BASIC**!
 - 💡 I'm a **Full-Stack Developer**. I believe even small impacts can drive significant change.
